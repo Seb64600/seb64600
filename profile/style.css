@@ -1,0 +1,95 @@
+body{
+  background: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color:  #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+
+h1{
+  color: #DD5555;
+  font-size: 22px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 300;
+  font-weight: bold;
+}
+
+p{
+  text-align: justify;
+}
+
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+
+a:hover{
+  color: #DD5555;
+  text-decoration: none;
+}
+
+
+
+.basics_infos{
+    width: 500px;
+    margin: 30px auto;
+}
+
+
+.presentation1 {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+
+}
+
+.presentation2 {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.link {
+    color:  ;
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.movies {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+
+.moreaboutme {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}

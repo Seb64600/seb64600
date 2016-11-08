@@ -1,0 +1,10 @@
+
+  <h2><%= @task.date %></h2>
+  <p><%= @task.label %></p>
+  <p><%= @task.done %></p>
+    <button><%= link_to "Delete", task_path(@task),
+      method: :delete,
+      data: { confirm: "Are you sure?" } %></button>
+
+
+
